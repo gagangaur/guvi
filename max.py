@@ -1,2 +1,2 @@
-a,b,c=map(int,input().split())
+anti,banti,canti=map(int,input().split())
 print(max(a,b,c))
