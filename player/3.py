@@ -4,3 +4,4 @@ def reverseN(n):
     return str(n%10) + reverseN(n//10)
 
 print(reverseN(int(input())))
+#abc
